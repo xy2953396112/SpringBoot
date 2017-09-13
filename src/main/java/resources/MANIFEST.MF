@@ -1,0 +1,44 @@
+Manifest-Version: 1.0
+Class-Path: aether-api-0.9.0.M2.jar/ aether-impl-0.9.0.M2.jar/ aether-
+ spi-0.9.0.M2.jar/ aether-util-0.9.0.M2.jar/ aopalliance-1.0.jar/ cdi-
+ api-1.0.jar/ classmate-1.3.3.jar/ commons-codec-1.10.jar/ commons-com
+ press-1.9.jar/ commons-logging-api-1.1.jar/ dom4j-1.6.1.jar/ google-c
+ ollections-1.0.jar/ guava-10.0.1.jar/ hamcrest-core-1.3.jar/ hibernat
+ e-validator-5.3.5.Final.jar/ httpclient-4.5.2.jar/ httpcore-4.4.6.jar
+ / jackson-annotations-2.8.0.jar/ jackson-core-2.8.8.jar/ jackson-data
+ bind-2.8.8.jar/ javax.inject-1.jar/ jboss-logging-3.3.1.Final.jar/ jc
+ l-over-slf4j-1.7.25.jar/ jsr250-api-1.0.jar/ jsr305-2.0.1.jar/ jul-to
+ -slf4j-1.7.25.jar/ junit-4.12.jar/ log4j-1.2.12.jar/ log4j-api-2.7.ja
+ r/ log4j-core-2.8.2.jar/ log4j-over-slf4j-1.7.25.jar/ logback-classic
+ -1.1.11.jar/ logback-core-1.1.11.jar/ maven-aether-provider-3.1.1.jar
+ / maven-archiver-2.6.jar/ maven-artifact-3.1.1.jar/ maven-artifact-ma
+ nager-2.0.8.jar/ maven-common-artifact-filters-1.4.jar/ maven-core-3.
+ 1.1.jar/ maven-model-3.1.1.jar/ maven-model-builder-3.1.1.jar/ maven-
+ plugin-api-3.1.1.jar/ maven-plugin-registry-2.0.8.jar/ maven-profile-
+ 2.0.8.jar/ maven-project-2.0.8.jar/ maven-repository-metadata-3.1.1.j
+ ar/ maven-settings-3.1.1.jar/ maven-settings-builder-3.1.1.jar/ maven
+ -shared-utils-0.7.jar/ mybatis-3.4.0.jar/ mybatis-spring-1.3.0.jar/ m
+ ybatis-spring-boot-autoconfigure-1.1.1.jar/ mybatis-spring-boot-start
+ er-1.1.1.jar/ mysql-connector-java-5.1.42.jar/ org.eclipse.sisu.injec
+ t-0.0.0.M5.jar/ org.eclipse.sisu.plexus-0.0.0.M5.jar/ plexus-archiver
+ -2.8.1.jar/ plexus-build-api-0.0.7.jar/ plexus-cipher-1.4.jar/ plexus
+ -classworlds-2.5.1.jar/ plexus-component-annotations-1.5.5.jar/ plexu
+ s-container-default-1.5.5.jar/ plexus-interpolation-1.21.jar/ plexus-
+ io-2.3.2.jar/ plexus-sec-dispatcher-1.3.jar/ plexus-utils-3.0.20.jar/
+  sisu-guice-3.1.0-no_aop.jar/ slf4j-api-1.7.25.jar/ snakeyaml-1.17.ja
+ r/ spring-aop-4.3.9.RELEASE.jar/ spring-beans-4.3.9.RELEASE.jar/ spri
+ ng-boot-1.5.4.RELEASE.jar/ spring-boot-autoconfigure-1.5.4.RELEASE.ja
+ r/ spring-boot-devtools-1.5.4.RELEASE.jar/ spring-boot-loader-tools-1
+ .5.4.RELEASE.jar/ spring-boot-maven-plugin-1.5.4.RELEASE.jar/ spring-
+ boot-starter-1.5.4.RELEASE.jar/ spring-boot-starter-jdbc-1.5.4.RELEAS
+ E.jar/ spring-boot-starter-logging-1.5.4.RELEASE.jar/ spring-boot-sta
+ rter-tomcat-1.5.4.RELEASE.jar/ spring-boot-starter-web-1.5.4.RELEASE.
+ jar/ spring-context-4.3.9.RELEASE.jar/ spring-core-4.3.9.RELEASE.jar/
+  spring-expression-4.3.9.RELEASE.jar/ spring-jdbc-4.3.9.RELEASE.jar/ 
+ spring-tx-4.3.9.RELEASE.jar/ spring-web-4.3.9.RELEASE.jar/ spring-web
+ mvc-4.3.9.RELEASE.jar/ tomcat-embed-core-8.5.15.jar/ tomcat-embed-el-
+ 8.5.15.jar/ tomcat-embed-websocket-8.5.15.jar/ tomcat-jdbc-8.5.15.jar
+ / tomcat-juli-8.5.15.jar/ validation-api-1.1.0.Final.jar/ wagon-provi
+ der-api-1.0-beta-2.jar/ xbean-reflect-3.4.jar/ xml-apis-1.4.01.jar/
+Main-Class: com.mess.Application
+
